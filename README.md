@@ -79,10 +79,10 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics
-<img width="4961" height="3508" alt="BEEE exp2-2" src="https://github.com/user-attachments/assets/164188d3-fafd-4c97-8fdc-8fecd852e8e7" />
+![IMG_20251126_160008](https://github.com/user-attachments/assets/1f0f5d9f-df31-4209-9ae6-3d629aae1d07)
 
 Load Characteristics:
- <img width="4961" height="3508" alt="BEE exp2-1" src="https://github.com/user-attachments/assets/354e7b44-bc3a-4d2f-ac69-b4c49459dd65" />
+![IMG_20251126_155940](https://github.com/user-attachments/assets/84085ef8-0f95-4f52-9621-7a1c4e625757)
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
